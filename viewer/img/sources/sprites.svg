@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sprites.svg"
+   inkscape:export-filename="/var/www/dev/img/sprites.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient572"
+       id="linearGradient22658"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.53789,1180.6304)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.4e-7,-7.85696,-7.85696,3.4e-7,153,692.001)"
+       spreadMethod="pad"
+       id="linearGradient572">
+      <stop
+         style="stop-opacity:1;stop-color:#fdfdfd"
+         offset="0"
+         id="stop574" />
+      <stop
+         style="stop-opacity:1;stop-color:#dad9d9"
+         offset="1"
+         id="stop576" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient572-3"
+       id="linearGradient22658-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.53789,1180.6304)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.4e-7,-7.85696,-7.85696,3.4e-7,153,692.001)"
+       spreadMethod="pad"
+       id="linearGradient572-3">
+      <stop
+         style="stop-opacity:1;stop-color:#fdfdfd"
+         offset="0"
+         id="stop574-3" />
+      <stop
+         style="stop-opacity:1;stop-color:#dad9d9"
+         offset="1"
+         id="stop576-2" />
+    </linearGradient>
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"
+       spreadMethod="pad"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.53789,1180.6304)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7761"
+       xlink:href="#linearGradient572-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient572-3"
+       id="linearGradient3904"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.812487,1058.04)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient572-3-3"
+       id="linearGradient3904-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.812487,1058.04)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.4e-7,-7.85696,-7.85696,3.4e-7,153,692.001)"
+       spreadMethod="pad"
+       id="linearGradient572-3-3">
+      <stop
+         style="stop-opacity:1;stop-color:#fdfdfd"
+         offset="0"
+         id="stop574-3-7" />
+      <stop
+         style="stop-opacity:1;stop-color:#dad9d9"
+         offset="1"
+         id="stop576-2-9" />
+    </linearGradient>
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"
+       spreadMethod="pad"
+       gradientTransform="matrix(-6.375e-8,1.47318,-1.47318,-6.375e-8,56.812487,1058.04)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4144"
+       xlink:href="#linearGradient572-3-3"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         id="path6174"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-8"
+       style="overflow:visible">
+      <path
+         id="path6174-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-4"
+       style="overflow:visible">
+      <path
+         id="path6174-72"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.4e-7,-7.85696,-7.85696,3.4e-7,153,692.001)"
+       spreadMethod="pad"
+       id="linearGradient572-3-3-0">
+      <stop
+         style="stop-opacity:1;stop-color:#fdfdfd"
+         offset="0"
+         id="stop574-3-7-6" />
+      <stop
+         style="stop-opacity:1;stop-color:#dad9d9"
+         offset="1"
+         id="stop576-2-9-2" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.3031397"
+     inkscape:cx="35.059648"
+     inkscape:cy="215.10743"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-global="false"
+     units="px"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3808"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2989">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="donkere ondergrond"
+     style="display:inline">
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.17538433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       width="29.824614"
+       height="449.82462"
+       x="40.087692"
+       y="-449.91232"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       id="rect23-9" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.17543009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       width="29.824568"
+       height="450.06012"
+       x="0.087715052"
+       y="-450.08582"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       id="rect23" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,122.83473)"
+     style="display:inline">
+    <g
+       transform="matrix(0.49984505,-0.49984505,0.49984505,0.49984505,-27.632803,-62.217212)"
+       style="display:inline"
+       id="g4764-7-1"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="-6.3058872"
+         x="71.472084"
+         height="4.6504245"
+         width="33.650425"
+         id="rect4701-2-6-5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.34957564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-90.622505"
+         x="-20.805887"
+         height="4.6504245"
+         width="33.650425"
+         id="rect4701-29-5-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.34957564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    </g>
+    <g
+       style="display:inline"
+       id="g3966-8"
+       transform="translate(-280.9287,-93.730676)"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         transform="translate(-15.436813,2.1613915)"
+         d="M 320.40926,14.071088 C 320.40926,19.123305 316.31363,23.218937 311.26141,23.218937 306.2092,23.218937 302.11356,19.123305 302.11356,14.071088 302.11356,9.0188703 306.2092,4.9232388 311.26141,4.9232388 316.31363,4.9232388 320.40926,9.0188703 320.40926,14.071088 z"
+         sodipodi:ry="9.1478491"
+         sodipodi:rx="9.1478491"
+         sodipodi:cy="14.071088"
+         sodipodi:cx="311.26141"
+         id="path3148-7"
+         style="fill:#0099d0;fill-opacity:1;fill-rule:nonzero;stroke:#0099d0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         sodipodi:linespacing="125%"
+         id="text3755-7-7-1-3-4"
+         y="22.916029"
+         x="293.20279"
+         style="font-size:31.12291718px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:ESRI ArcGIS TDN;-inkscape-font-specification:ESRI ArcGIS TDN"
+         xml:space="preserve"
+         transform="scale(1.0000012,0.9999988)"><tspan
+           style="font-size:18.67374992px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="22.916029"
+           x="293.20279"
+           id="tspan3757-0-2-0-9-9"
+           sodipodi:role="line">i</tspan></text>
+    </g>
+    <g
+       id="g4257"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(0,390.0041)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/hoekje.png"
+         y="-61.02282"
+         x="1.8980571"
+         height="26.29003"
+         width="26.29003"
+         id="rect7832-9"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.70996952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/hoekje.png"
+         transform="matrix(-2.3626453,0,0,-2.3357352,205.1103,2.681136)"
+         sodipodi:end="1.5713897"
+         sodipodi:start="0"
+         d="M 85.816214,16.216217 C 85.816214,22.198805 81.02445,27.048651 75.11351,27.048651 75.111393,27.048651 75.109276,27.04865 75.107159,27.048649 L 75.11351,16.216217 z"
+         sodipodi:ry="10.832434"
+         sodipodi:rx="10.702703"
+         sodipodi:cy="16.216217"
+         sodipodi:cx="75.11351"
+         id="path7828-8"
+         style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(-119.93986,119.37064)"
+       style="display:inline"
+       id="g3972-8"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         transform="matrix(0.79905521,0.60125766,0.96628527,-0.25747383,0,0)"
+         y="200.49673"
+         x="-89.202065"
+         height="16.260723"
+         width="10.618903"
+         id="rect3565-9-5"
+         style="opacity:0.98000004;fill:#ffffff;stroke:#0099d0;stroke-width:1.29762518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         transform="matrix(0.79905521,0.60125766,0.96628527,-0.25747383,0,0)"
+         y="204.55753"
+         x="-93.353996"
+         height="16.260723"
+         width="10.618903"
+         id="rect3565-0-0"
+         style="opacity:0.98000004;fill:#ffffff;stroke:#0099d0;stroke-width:1.29762518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         transform="matrix(0.79905521,0.60125766,0.96628527,-0.25747383,0,0)"
+         y="208.25616"
+         x="-97.826698"
+         height="16.260723"
+         width="10.618903"
+         id="rect3565-99"
+         style="opacity:0.98000004;fill:#ffffff;stroke:#0099d0;stroke-width:1.29762518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    </g>
+    <text
+       transform="scale(1.0000012,0.9999988)"
+       xml:space="preserve"
+       style="font-size:38.75403976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:ESRI ArcGIS TDN;-inkscape-font-specification:ESRI ArcGIS TDN"
+       x="8.5295668"
+       y="49.57843"
+       id="text3755-7-7-1-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3757-0-2-0-0"
+         x="8.5295668"
+         y="49.57843"
+         style="font-size:23.25242424px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">?</tspan></text>
+    <g
+       style="display:inline"
+       id="g5654-8"
+       transform="translate(-862.08735,1012.955)"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.98000004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7153-3"
+         sodipodi:cx="806.66742"
+         sodipodi:cy="105.93398"
+         sodipodi:rx="5.0364251"
+         sodipodi:ry="5.4561272"
+         d="M 811.70384,105.93398 C 811.70384,108.94732 809.44896,111.39011 806.66742,111.39011 803.88588,111.39011 801.63099,108.94732 801.63099,105.93398 801.63099,102.92065 803.88588,100.47786 806.66742,100.47786 809.44896,100.47786 811.70384,102.92065 811.70384,105.93398 z"
+         transform="matrix(0.69493737,0,0,0.64148065,310.62982,-1009.8645)" />
+      <path
+         transform="matrix(0.69493737,0,0,0.64148065,323.27498,-1015.5097)"
+         d="M 811.70384,105.93398 C 811.70384,108.94732 809.44896,111.39011 806.66742,111.39011 803.88588,111.39011 801.63099,108.94732 801.63099,105.93398 801.63099,102.92065 803.88588,100.47786 806.66742,100.47786 809.44896,100.47786 811.70384,102.92065 811.70384,105.93398 z"
+         sodipodi:ry="5.4561272"
+         sodipodi:rx="5.0364251"
+         sodipodi:cy="105.93398"
+         sodipodi:cx="806.66742"
+         id="path4868-2"
+         style="opacity:0.98000004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.98000004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4870-9"
+         sodipodi:cx="806.66742"
+         sodipodi:cy="105.93398"
+         sodipodi:rx="5.0364251"
+         sodipodi:ry="5.4561272"
+         d="M 811.70384,105.93398 C 811.70384,108.94732 809.44896,111.39011 806.66742,111.39011 803.88588,111.39011 801.63099,108.94732 801.63099,105.93398 801.63099,102.92065 803.88588,100.47786 806.66742,100.47786 809.44896,100.47786 811.70384,102.92065 811.70384,105.93398 z"
+         transform="matrix(0.69493737,0,0,0.64148065,322.59756,-1002.6387)" />
+      <path
+         transform="translate(0,-1052.3623)"
+         inkscape:connector-curvature="0"
+         id="path4872-5"
+         d="m 882.90323,104.30501 -12.41936,6.09677 12.41936,7.45162"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="translate(-697.98547,-1.3743432)"
+       style="opacity:0.98000004;display:inline"
+       id="g7225-5"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g7227-2"
+         transform="translate(176,-1.061951)">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2.98060226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path7229-7"
+           sodipodi:cx="447.1871"
+           sodipodi:cy="104.33637"
+           sodipodi:rx="8.3999996"
+           sodipodi:ry="8.4903221"
+           d="M 455.5871,104.33637 C 455.5871,109.02545 451.82629,112.82669 447.1871,112.82669 442.54791,112.82669 438.7871,109.02545 438.7871,104.33637 438.7871,99.647297 442.54791,95.84605 447.1871,95.84605 451.82629,95.84605 455.5871,99.647297 455.5871,104.33637 z"
+           transform="matrix(1.0119048,0,0,1.0011399,84.396444,0.01094459)" />
+        <rect
+           y="109.96625"
+           x="536.7052"
+           height="4"
+           width="0.40398449"
+           id="rect7231-9"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="94.966248"
+           x="536.7052"
+           height="4"
+           width="0.40398449"
+           id="rect7233-1"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           transform="matrix(-0.00548601,0.99998495,-0.99999796,-0.00202087,0,0)"
+           y="-531.97443"
+           x="103.1946"
+           height="3.9977896"
+           width="0.40440196"
+           id="rect7235-9"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00000298;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           transform="matrix(-0.005486,0.99998495,-0.99999796,-0.00202087,0,0)"
+           y="-546.9743"
+           x="103.16428"
+           height="3.9977896"
+           width="0.40440196"
+           id="rect7237-6"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00000298;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2.98060226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7239-3"
+         sodipodi:cx="447.1871"
+         sodipodi:cy="104.33637"
+         sodipodi:rx="8.3999996"
+         sodipodi:ry="8.4903221"
+         d="M 455.5871,104.33637 C 455.5871,109.02545 451.82629,112.82669 447.1871,112.82669 442.54791,112.82669 438.7871,109.02545 438.7871,104.33637 438.7871,99.647297 442.54791,95.84605 447.1871,95.84605 451.82629,95.84605 455.5871,99.647297 455.5871,104.33637 z"
+         transform="matrix(1.0119048,0,0,1.0011399,260.39642,-1.0510064)" />
+      <rect
+         y="108.9043"
+         x="712.7052"
+         height="4"
+         width="0.40398449"
+         id="rect7241-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="93.904297"
+         x="712.7052"
+         height="4"
+         width="0.40398449"
+         id="rect7243-8"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         transform="matrix(-0.00548601,0.99998495,-0.99999796,-0.00202087,0,0)"
+         y="-707.96698"
+         x="101.77696"
+         height="3.9977896"
+         width="0.40440196"
+         id="rect7245-4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00000298;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         transform="matrix(-0.005486,0.99998495,-0.99999796,-0.00202087,0,0)"
+         y="-722.96686"
+         x="101.74665"
+         height="3.9977896"
+         width="0.40440196"
+         id="rect7247-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00000298;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:37.28426361;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7249-6"
+         sodipodi:cx="679.66101"
+         sodipodi:cy="53.454681"
+         sodipodi:rx="3.1070218"
+         sodipodi:ry="3.1070218"
+         d="M 682.76803,53.454681 C 682.76803,55.170642 681.37697,56.561703 679.66101,56.561703 677.94505,56.561703 676.55399,55.170642 676.55399,53.454681 676.55399,51.738721 677.94505,50.34766 679.66101,50.34766 681.37697,50.34766 682.76803,51.738721 682.76803,53.454681 z"
+         transform="matrix(-0.48277743,0,0,-0.48277743,1041.0322,129.21101)" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.83971542;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect4701-6-5"
+       width="20.937531"
+       height="2.8935268"
+       x="108.62852"
+       y="160.79677"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-299.90272,240.07572)"
+       style="display:inline"
+       id="g3133-0"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="color:#000000;fill:#0099d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect22652-0"
+         width="30"
+         height="30"
+         x="300"
+         y="-122.83473"
+         ry="4.4255981"
+         rx="4.4255981" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         inkscape:connector-curvature="0"
+         id="path578-2"
+         style="fill:url(#linearGradient4144);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="m 316.87498,-98.459708 -3.75,0 0,-7.501872 -3.75,0 0,-3.74813 3.75,0 0,-2.29875 c 0,-3.10125 1.8075,-5.20125 4.39313,-5.20125 l 3.10687,0 0,3.69188 -2.8125,0 c -0.3225,0 -0.9375,0.17437 -0.9375,0.79125 l 0,3.01687 3.75,0 0,3.74813 -3.75,0 0,7.501872" />
+    </g>
+    <g
+       transform="translate(-329.83844,300.00167)"
+       style="display:inline"
+       id="g3137-4"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="4.4255981"
+         ry="4.4255981"
+         y="-122.83473"
+         x="330"
+         height="30"
+         width="30"
+         id="rect23034-3"
+         style="color:#000000;fill:#0099d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         inkscape:connector-curvature="0"
+         id="path7516-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="m 351.16683,-110.6341 c -1.16457,-0.82875 -2.69532,-1.00313 -4.20334,-0.48 l -1.46704,0.50625 0,-0.975 -3.75,0 0,13.12501 3.75,0 0,-8.18064 2.69306,-0.93375 c 0.34144,-0.11812 0.64538,-0.12187 0.80288,-0.008 0.15881,0.11251 0.25406,0.3975 0.25406,0.76126 l 0,8.36063 3.75,0 0,-8.36063 c 0,-1.59938 -0.66656,-2.98875 -1.82962,-3.81563" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         inkscape:connector-curvature="0"
+         id="path7514-4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="m 336.12145,-98.45784 3.75,0 0,-13.12501 -3.75,0 0,13.12501 z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         inkscape:connector-curvature="0"
+         id="path7518-3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="m 337.99645,-117.8641 c -1.4004,0 -2.53052,1.1325 -2.53052,2.53125 0,1.39875 1.13012,2.53125 2.53052,2.53125 1.4004,0 2.53052,-1.1325 2.53052,-2.53125 0,-1.39875 -1.13012,-2.53125 -2.53052,-2.53125" />
+    </g>
+    <g
+       transform="translate(-359.93405,359.9919)"
+       style="display:inline"
+       id="g3143-0"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="4.4255981"
+         ry="4.4255981"
+         y="-122.83473"
+         x="360"
+         height="30"
+         width="30"
+         id="rect22656-2"
+         style="color:#000000;fill:#0099d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/var/www/applas/img/sprites.png"
+         inkscape:connector-curvature="0"
+         id="path20754-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+         d="m 386.25001,-108.43359 c -0.79125,0.13257 -1.94062,-0.006 -2.54812,-0.25927 1.26187,-0.10474 2.12062,-0.68042 2.44875,-1.46044 -0.45375,0.28125 -1.87125,0.58667 -2.65125,0.29663 -0.0375,-0.18825 -0.0806,-0.36036 -0.12375,-0.51782 -0.59438,-2.18621 -2.6325,-3.95283 -4.76813,-3.73907 0.1725,-0.0711 0.34688,-0.13463 0.52313,-0.19257 0.23437,-0.0849 1.61437,-0.30975 1.39687,-0.79687 -0.18375,-0.4277 -1.86937,0.32436 -2.18812,0.42337 0.42,-0.159 1.11375,-0.42918 1.18687,-0.91331 -0.64125,0.09 -1.27125,0.39187 -1.75687,0.83644 0.17437,-0.189 0.30937,-0.42188 0.33562,-0.66956 -1.71187,1.095 -2.71312,3.30262 -3.52125,5.4456 -0.63562,-0.61888 -1.19812,-1.10449 -1.70437,-1.37629 -1.4175,-0.75806 -3.1125,-1.55119 -5.77125,-2.54063 -0.0844,0.87732 0.43312,2.05294 1.92187,2.83075 -0.32062,-0.0432 -0.91125,0.0549 -1.38187,0.16552 0.19312,1.01001 0.81937,1.84277 2.51812,2.24414 -0.77625,0.0506 -1.1775,0.22852 -1.54125,0.60937 0.35438,0.70313 1.21875,1.52784 2.7675,1.35718 -1.725,0.74488 -0.70312,2.12623 0.70313,1.92188 -2.39625,2.47706 -6.17625,2.29322 -8.34563,0.22119 5.66625,7.727065 17.98125,4.569575 19.815,-2.87182 1.37813,0.011 2.18438,-0.47683 2.685,-1.01442" />
+    </g>
+    <g
+       transform="matrix(0.67617745,0,0,0.67617745,57.684771,223.86665)"
+       style="display:inline"
+       id="g4764-0-6"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="-6.3058872"
+         x="71.472084"
+         height="4.6504245"
+         width="33.650425"
+         id="rect4701-2-0-6"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.34957564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-90.622505"
+         x="-20.805887"
+         height="4.6504245"
+         width="33.650425"
+         id="rect4701-29-6-2"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.34957564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    </g>
+    <g
+       transform="matrix(0.52642654,0,0,0.52642654,-55.324401,-308.08634)"
+       style="display:inline"
+       id="g5870"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.98000004;color:#000000;fill:none;stroke:#ffffff;stroke-width:3.01608586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5832"
+         sodipodi:cx="447.1871"
+         sodipodi:cy="104.33637"
+         sodipodi:rx="8.3999996"
+         sodipodi:ry="8.4903221"
+         d="M 455.5871,104.33637 C 455.5871,109.02545 451.82629,112.82669 447.1871,112.82669 442.54791,112.82669 438.7871,109.02545 438.7871,104.33637 438.7871,99.647297 442.54791,95.84605 447.1871,95.84605 451.82629,95.84605 455.5871,99.647297 455.5871,104.33637 z"
+         transform="matrix(1.6666667,0,0,1.6489363,-615.65725,830.00956)" />
+      <path
+         style="opacity:0.98000004;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 139.74086,1014.2328 14.60455,14.5019 0,0"
+         id="path5834"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-0.01836631,-0.68348818)"
+         id="g5864">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 121.44223,1002.7371 16.46148,0"
+           id="path5852"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5854"
+           d="m 129.67297,994.50636 0,16.46144"
+           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5877"
+       transform="matrix(0.52642654,0,0,0.52642654,-55.235853,-368.26414)"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(1.6666667,0,0,1.6489363,-615.65725,830.00956)"
+         d="M 455.5871,104.33637 C 455.5871,109.02545 451.82629,112.82669 447.1871,112.82669 442.54791,112.82669 438.7871,109.02545 438.7871,104.33637 438.7871,99.647297 442.54791,95.84605 447.1871,95.84605 451.82629,95.84605 455.5871,99.647297 455.5871,104.33637 z"
+         sodipodi:ry="8.4903221"
+         sodipodi:rx="8.3999996"
+         sodipodi:cy="104.33637"
+         sodipodi:cx="447.1871"
+         id="path5879"
+         style="opacity:0.98000004;color:#000000;fill:none;stroke:#ffffff;stroke-width:3.01608586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5881"
+         d="m 139.74086,1014.2328 14.60455,14.5019 0,0"
+         style="opacity:0.98000004;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         id="g5883"
+         transform="translate(-0.01836631,-0.68348818)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5885"
+           d="m 121.44223,1002.7371 16.46148,0"
+           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.41755964,0,0,0.41755964,-40.542677,-139.24229)"
+       style="display:inline"
+       id="g5870-5"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.98000004;color:#000000;fill:none;stroke:#ffffff;stroke-width:3.01608586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path5832-1"
+         sodipodi:cx="447.1871"
+         sodipodi:cy="104.33637"
+         sodipodi:rx="8.3999996"
+         sodipodi:ry="8.4903221"
+         d="M 455.5871,104.33637 C 455.5871,109.02545 451.82629,112.82669 447.1871,112.82669 442.54791,112.82669 438.7871,109.02545 438.7871,104.33637 438.7871,99.647297 442.54791,95.84605 447.1871,95.84605 451.82629,95.84605 455.5871,99.647297 455.5871,104.33637 z"
+         transform="matrix(1.6666667,0,0,1.6489363,-615.65725,830.00956)" />
+      <path
+         style="opacity:0.98000004;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 139.74086,1014.2328 14.60455,14.5019 0,0"
+         id="path5834-1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-0.01836631,-0.68348818)"
+         id="g5864-0" />
+    </g>
+    <g
+       id="g5969"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(0.2465761,-1.2762775)"
+         id="g3873"
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 15.01922,-56.763587 c 7.859731,9.80541 7.859731,9.80541 7.859731,9.80541"
+           id="path3067"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 14.779672,-56.692973 c -7.8597306,9.805409 -7.8597306,9.805409 -7.8597306,9.805409"
+           id="path3067-7"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3067-7-5"
+         d="m 23.219126,-37.363293 c -16.1462078,7.74e-4 -16.1462078,7.74e-4 -16.1462078,7.74e-4"
+         style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         transform="translate(0.2465761,6.2214914)"
+         id="g3873-4"
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 15.01922,-56.763587 c 7.859731,9.80541 7.859731,9.80541 7.859731,9.80541"
+           id="path3067-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#0099d0;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 14.779672,-56.692973 c -7.8597306,9.805409 -7.8597306,9.805409 -7.8597306,9.805409"
+           id="path3067-7-9"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g6001"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-0.2146812,28.828585)"
+         id="g3873-2"
+         style="stroke:#e6e6e6;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 15.01922,-56.763587 c 7.859731,9.80541 7.859731,9.80541 7.859731,9.80541"
+           id="path3067-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 14.779672,-56.692973 c -7.8597306,9.805409 -7.8597306,9.805409 -7.8597306,9.805409"
+           id="path3067-7-91"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3067-7-5-0"
+         d="M 22.757869,-7.25843 C 6.6116609,-7.257656 6.6116609,-7.257656 6.6116609,-7.257656"
+         style="fill:#0099d0;fill-opacity:1;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         transform="translate(-0.2146812,36.326354)"
+         id="g3873-4-4"
+         style="stroke:#e6e6e6;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 15.01922,-56.763587 c 7.859731,9.80541 7.859731,9.80541 7.859731,9.80541"
+           id="path3067-1-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#0099d0;fill-opacity:1;stroke:#e6e6e6;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 14.779672,-56.692973 c -7.8597306,9.805409 -7.8597306,9.805409 -7.8597306,9.805409"
+           id="path3067-7-9-7"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3503"
+       d="m 26.255778,312.66242 -16.229016,-0.0743"
+       style="opacity:0.98000004;fill:#ffffff;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS);display:inline"
+       inkscape:export-filename="/var/www/applas/img/sprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.51;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 51.934612,-112.63027 -6.902091,14.49569 14.341699,-6.7667"
+       id="path3357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.77234173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.881859,-104.25451 2.257303,2.32028 -4.637374,2.359009 z"
+       id="path4147"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 51.581451,9.5192205 8.148923,9.0060545 7.527368,-7.947543 0.03356,-7.5625146 -8.572897,0 z"
+       id="path4006"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-122.83473)"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="sscccs"
+       inkscape:connector-curvature="0"
+       id="path4026"
+       d="m 49.452952,-83.484757 c -2.825445,2.899534 5.926451,12.412318 8.641892,9.409516 l 7.26582,-8.034726 -0.06936,-7.709546 -8.572897,0 c 0,0 -6.936185,5.996854 -7.265453,6.334756 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50.222492,-83.162543 c 0,0 -4.613139,4.199924 -5.230968,4.70787 -2.632959,2.164679 4.476746,10.939938 7.061807,8.718279 1.800717,-1.547578 5.841246,-5.230967 5.841246,-5.230967"
+       id="path4028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.25027187,0,0,0.26858445,66.781949,-87.739944)"
+       d="M -12.259394,56.991554 C -12.259394,69.329232 -22.992887,79.330896 -36.233322,79.330896 -49.473757,79.330896 -60.207251,69.329232 -60.207251,56.991554 -60.207251,44.653876 -49.473757,34.652212 -36.233322,34.652212 -22.992887,34.652212 -12.259394,44.653876 -12.259394,56.991554 z"
+       sodipodi:ry="22.339342"
+       sodipodi:rx="23.973928"
+       sodipodi:cy="56.991554"
+       sodipodi:cx="-36.233322"
+       id="path3963"
+       style="color:#000000;fill:#a70b27;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.57110405;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-3.1894037,1.565089)"
+       id="g3965"
+       inkscape:export-filename="/var/www/applas/img/editsprites.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 58.094642,-71.149663 5.617058,-5.69665"
+         id="path3967"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3969"
+         d="m 63.751496,-71.189459 -5.69665,-5.617058"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
